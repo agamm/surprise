@@ -10,6 +10,10 @@
     "surprise",
     "motherfucker"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/funerr/surprise"
+  },
   "author": "Funerr <thefunerr@gmail.com>",
   "license": "WTFPL"
 }
