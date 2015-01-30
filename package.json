@@ -1,0 +1,15 @@
+{
+  "name": "surprise",
+  "version": "0.0.1",
+  "description": "Surprise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "surprise",
+    "motherfucker"
+  ],
+  "author": "Funerr <thefunerr@gmail.com>",
+  "license": "WTFPL"
+}
