@@ -1,6 +1,6 @@
 {
   "name": "surprise",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Surprise",
   "main": "index.js",
   "scripts": {

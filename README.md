@@ -2,9 +2,6 @@
 
 https://www.youtube.com/watch?v=PBXVYM4zlDg
 
-## Usage ##
-`npm install dependency-list`
-
 ### Example
 ```
 var surprise = require('./index.js');
