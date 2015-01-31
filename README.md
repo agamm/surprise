@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=PBXVYM4zlDg
 
 ### Example
 ```
-var surprise = require('./index.js');
+var surprise = require('surprise');
 console.log(surprise());
 ```
 
