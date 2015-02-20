@@ -18,7 +18,9 @@ var surprises = [
 	"LIKEWISE",
 	"SOME THIGHS",
 	"SPIES",
-	"SOME RICE"
+	"SOME RICE",
+	"FIRST PRIZE",
+	"WRONG SIZE",
 ];
 
 module.exports = function () {
